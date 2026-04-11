@@ -99,19 +99,30 @@ The project aims to demonstrate efficient wireless communication, real-time cont
 
 ### Transmitter code 
 
-<img src="" alt="RC">
+<img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/transmit.png" alt="RC">
 
-<img src="" alt="RC">
-
-<img src="" alt="RC">
+<img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/transmit2.png" alt="RC">
 
 
 ### Reciever
 
-<img src="" alt="RC">
+<img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/receiver.png" alt="RC">
 
-<img src="" alt="RC">
+<img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/receiver2.png" alt="RC">
 
-<img src="" alt="RC">
+<img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/receiver3.png" alt="RC">
+
+<img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/receiver4.png" alt="RC">
+
+<img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/receiver5.png" alt="RC">
+
+
+## Screenshot of Approval
+<img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/fd6d8122399a9272740503e26262a2ff95e918d0/CODES/approval.png" alt="RC">
+
+## Sample Video 
+
+[![Watch the Video]([path/to/your/thumbnail.png](https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/fd91af1222e419773e93b83b0648ca01e073eb39/VIDEO%20presentation.png))]([https://google.com](https://drive.google.com/file/d/1zIsu1MKTEFcTpOsH8T-EKASjUTMsQm5E/view?usp=sharing))
+
 
 
