@@ -122,7 +122,8 @@ The project aims to demonstrate efficient wireless communication, real-time cont
 
 ## Sample Video 
 
-[![Watch the Video]([path/to/your/thumbnail.png](https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/fd91af1222e419773e93b83b0648ca01e073eb39/VIDEO%20presentation.png))]([https://google.com](https://drive.google.com/file/d/1zIsu1MKTEFcTpOsH8T-EKASjUTMsQm5E/view?usp=sharing))
+[![Watch the Video](path/to/your/thumbnail.png)](https://google.com)
+
 
 
 
