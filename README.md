@@ -122,7 +122,7 @@ The project aims to demonstrate efficient wireless communication, real-time cont
 
 ## Sample Video 
 
-[![Watch the Video](path/to/your/thumbnail.png)](https://google.com)
+[![Watch the Video](VIDEO presentation.png)](https://drive.google.com/file/d/1zIsu1MKTEFcTpOsH8T-EKASjUTMsQm5E/view?usp=sharing)
 
 
 
