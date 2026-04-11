@@ -1,4 +1,5 @@
-<h1 align="center"> COMMS-2-LAB.---Design-and-Implementation-of-NRF24L01-Based-Remote-Control-Car-System </h1>
+<h1 align="center"> <i>COMMS-2-LAB.</i> 
+ Design and Implementation of NRF24L01 Based Remote Control Car System </h1>
 
 ## **Overview**
 This is a laboratory report on Communication 2. In this report, viewers can see the input, process, and the output of each experiments. The theoretical explanation behind it will also be discussed and how to use each discipline pratically.    
