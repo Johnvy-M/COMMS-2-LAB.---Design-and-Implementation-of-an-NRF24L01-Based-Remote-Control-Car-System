@@ -12,7 +12,7 @@ This is a laboratory report on Communication 2. In this report, viewers can see 
 * Picture of the Finished Project
 * Codes
 * Screenshot of approval
-* Sample videos
+* Sample video
 
 ## Brief project description
 This project is focused on the development of a wireless Remote Control Car using the NRF24L01 transceiver module for reliable 2.4 GHz communication. The project developer is concerned for the incosistency that the bluetooth based connection has such as the delay, and the range limitation of it. The system is consists of transmitter and receiver unit, where user input commands are wirelessly sent to control the movement and steering of the vehicle in real time.
