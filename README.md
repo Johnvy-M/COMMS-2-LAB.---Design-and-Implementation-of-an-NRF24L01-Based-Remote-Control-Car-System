@@ -97,15 +97,18 @@ The project aims to demonstrate efficient wireless communication, real-time cont
 
 ## Codes 
 
-### Transmitter code 
-
+ <details>
+  <summary><b><i>Transmitter Code(Car)</i></b></summary> 
+<div align="center">
 <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/transmit.png" alt="RC">
 
 <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/transmit2.png" alt="RC">
+ </div>
+ </details>
 
-
-### Reciever
-
+ <details>
+  <summary><b><i>Receiver Code(Car)</i></b></summary> 
+  <div align="center">
 <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/receiver.png" alt="RC">
 
 <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/receiver2.png" alt="RC">
@@ -115,7 +118,8 @@ The project aims to demonstrate efficient wireless communication, real-time cont
 <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/receiver4.png" alt="RC">
 
 <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/3ae3c82b21bec325901ea8e2e028eb2673a3cadc/CODES/receiver5.png" alt="RC">
-
+  </div>
+ </details>
 
 ## Screenshot of Approval
 <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Design-and-Implementation-of-an-NRF24L01-Based-Remote-Control-Car-System/blob/fd6d8122399a9272740503e26262a2ff95e918d0/CODES/approval.png" alt="RC">
